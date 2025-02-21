@@ -1,7 +1,6 @@
 
 .build/
 .check-identity
-.pre-commit-config.yaml
 .selid-hooks
 *.bak
 *.py[oic]

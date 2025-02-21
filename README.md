@@ -73,6 +73,6 @@ This will call `play` for you.
 
 # Fixing Generated Code
 
-Coding standards change over time, and this repo is relatively slow to update.  
+Coding standards change over time, and this repo is relatively slow to update.
 
 If you need different dm output, please see `templates/` and edit the appropriate file (`vglist.jinja` or `tglist.jinja`).  Once done, run `generate.sh` again.  Afterwards, please send us a PR so everyone else gets the update.
